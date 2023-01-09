@@ -1,4 +1,4 @@
-# Spring Boot Microservices - Online Shop Project
+# Spring Boot Microservices - Online Store Project
 
 I am going to be building the microservices using Spring Cloud.
 Spring Cloud is A lightweight event-driven microservices framework to quickly build applications that can connect to external systems.
